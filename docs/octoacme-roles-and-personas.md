@@ -75,6 +75,105 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+Focuses on delivering user-centric designs that align business goals with user needs.
+
+### Responsibilities
+- Conduct user research and usability testing
+- Collaborate with Product Managers and Developers to design user flows and interfaces
+- Provide final design assets for implementation
+- Validate designs through user feedback and testing
+
+### Goals
+- Ensure product usability and accessibility
+- Reduce customer friction and improve user satisfaction
+- Maintain design consistency across features
+
+### Typical Communication
+- Works closely with Product Managers for requirements gathering
+- Collaborates with Developers for design handoff and implementation guidance
+- Provides input to QA for usability validation
+- Presents design rationale in sprint planning and reviews
+
+---
+
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies and continuous improvement for the team, removing blockers and enabling high performance.
+
+### Responsibilities
+- Remove blockers and enable high team performance
+- Facilitate standups, sprint planning, reviews, and retrospectives
+- Coach team on agile best practices
+- Track team velocity and health metrics
+- Shield team from external distractions
+
+### Goals
+- Maximize team productivity and predictability
+- Foster continuous improvement culture
+- Maintain sustainable pace and team morale
+
+### Typical Communication
+- Partners with Project Manager and Developers for delivery coordination
+- Communicates impediments to Project Manager and leadership as needed
+- Facilitates daily standups and sprint ceremonies
+- Coordinates with other Scrum Masters on cross-team dependencies
+
+---
+
+## Data Analyst
+
+### Role Summary
+Provides data-driven insights to inform decisions and track progress against success metrics.
+
+### Responsibilities
+- Define and track key project metrics and KPIs
+- Analyze experiments and product usage data
+- Create dashboards and reports for stakeholders
+- Support stakeholder questions with data insights
+- Validate hypotheses through data analysis
+
+### Goals
+- Enable evidence-based decision making
+- Measure product impact and user behavior
+- Identify trends and opportunities for improvement
+
+### Typical Communication
+- Supports Product Manager in prioritization and outcome measurement
+- Collaborates with Developers to specify event tracking and instrumentation
+- Presents insights in weekly syncs and milestone reviews
+- Creates regular metric reports for stakeholders
+
+---
+
+## Customer Support Lead
+
+### Role Summary
+Ensures customer-facing teams are ready to support releases and provides feedback from real users back to the product team.
+
+### Responsibilities
+- Prepare support documentation and FAQs for releases
+- Communicate new features and fixes to customers
+- Escalate recurring issues and user feedback to product team
+- Train support team on new functionality
+- Monitor customer satisfaction and support ticket trends
+
+### Goals
+- Ensure smooth customer experience during releases
+- Minimize support escalations and response time
+- Provide valuable customer insights to product team
+
+### Typical Communication
+- Coordinates with Project Manager on release readiness and timing
+- Partners with Product Manager for known issues and feature communication
+- Collaborates with Developers for technical details and troubleshooting
+- Provides customer feedback in retrospectives and planning sessions
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
