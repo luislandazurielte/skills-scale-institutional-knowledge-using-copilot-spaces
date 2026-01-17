@@ -94,7 +94,7 @@ Focuses on delivering user-centric designs that align business goals with user n
 ### Typical Communication
 - Works closely with Product Managers for requirements gathering
 - Collaborates with Developers for design handoff and implementation guidance
-- Provides input to QA for usability validation
+- Provides input during testing for usability validation
 - Presents design rationale in sprint planning and reviews
 
 ---
@@ -105,7 +105,7 @@ Focuses on delivering user-centric designs that align business goals with user n
 Facilitates agile ceremonies and continuous improvement for the team, removing blockers and enabling high performance.
 
 ### Responsibilities
-- Remove blockers and enable high team performance
+- Remove blockers to enable team productivity
 - Facilitate standups, sprint planning, reviews, and retrospectives
 - Coach team on agile best practices
 - Track team velocity and health metrics
